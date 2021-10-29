@@ -2,7 +2,7 @@
 
 <div align="center"> 
   <p align='center'> 
-   <img src="https://img.shields.io/badge/Name%20-%20Repository-darkgreen?style=for-the-badge" />
+   <img src="https://img.shields.io/badge/Seq%20-%20Modelling-darkgreen?style=for-the-badge" />
    <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
    <img src="https://img.shields.io/badge/By-Swarnabha-blue?style=for-the-badge" /><br>
    <img src="http://ForTheBadge.com/images/badges/made-with-python.svg" />
