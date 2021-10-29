@@ -39,28 +39,7 @@
   <br>
 
   
-<div align="center"> 
-  <img src="https://img.shields.io/badge/Setting%20up%20locally-purple?logo=visual-studio-code&style=for-the-badge" /> 
-</div>
 
-   ```
-   git clone https://github.com/sd2001/repo-name.git   
-   ```   
-
-   ```
-   cd repo-name
-   ```
-
-   ```
-   pip install virtualenv
-   python -m venv <name of environment>
-   source <name>/bin/activate
-   pip install -r requirements.txt
-   ```
-
-   ```
-   bash run.sh
-   ```
   
 <div align="center"> 
   <img src="https://img.shields.io/badge/Tech%20Stack%20Used-chocolate?logo=Tesla&style=for-the-badge" /> 
